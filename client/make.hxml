@@ -1,0 +1,4 @@
+-main Client
+-cp ../common/
+-lib hxsocketio
+-js bin/client.js

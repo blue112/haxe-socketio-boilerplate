@@ -1,0 +1,6 @@
+-main Server
+-lib hxsocketio
+-lib hxnodejs
+-lib express
+-cp ../common/
+-js bin/server.js
